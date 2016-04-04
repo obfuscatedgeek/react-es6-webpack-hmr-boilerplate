@@ -8,7 +8,7 @@ module.exports = {
         './src/index.js'
     ],
 
-    modules: {
+    module: {
         loaders: [
             {
                 test: /\.js?$/,
